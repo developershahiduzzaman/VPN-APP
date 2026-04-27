@@ -37,13 +37,6 @@ BengalVPN is a professional-grade VPN ecosystem featuring a powerful **Laravel 1
 
 ---
 
-## 📸 Screenshots
-
-| Connection Screen | Server List | Admin Dashboard |
-|---|---|---|
-| ![Home](https://via.placeholder.com/200x400?text=App+Home) | ![Servers](https://via.placeholder.com/200x400?text=Server+List) | ![Admin](https://via.placeholder.com/400x200?text=Laravel+Admin) |
-
----
 
 ## 🚀 Fast Installation
 
@@ -56,4 +49,4 @@ BengalVPN is a professional-grade VPN ecosystem featuring a powerful **Laravel 1
 1. Open the project in **Android Studio**.
 2. Change the `BASE_DOMAIN` in `ApiClient.java`:
    ```java
-   public static final String BASE_DOMAIN = "[https://yourdomain.com/](https://yourdomain.com/)";
+   public static final String BASE_DOMAIN = "[https://yourdomain.com/]
