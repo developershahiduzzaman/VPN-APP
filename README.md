@@ -5,7 +5,7 @@ BengalVPN is a professional-grade VPN ecosystem featuring a powerful **Laravel 1
 ---
 
 ## 🌐 Live Demo & Documentation
-         🌐https://futuretechbd.net/demo/
+         https://futuretechbd.net/demo/
 
 ---
 
