@@ -6,7 +6,7 @@ BengalVPN is a professional-grade VPN ecosystem featuring a powerful **Laravel 1
 
 ## 🌐 Live Demo & Documentation
 - **Live Documentation:** [View Documentation](https://futuretechbd.net/vpndoc/)
-- **Admin Panel Demo:** [[Demo Link Here](https://futuretechbd.net/vpn/admin/login)] (Username: `admin` | Password: `password`)
+- **Admin Panel Demo:** [[Demo Link Here](https://futuretechbd.net/vpn/admin/login)] (Username: `admin@admin.com` | Password: `12345678`)
 - **Android APK:** [[Download APK](https://github.com/developershahiduzzaman/VPN-APP/releases/download/v1.0/app-release.apk)]
 
 ---
